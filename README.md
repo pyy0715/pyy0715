@@ -1,5 +1,22 @@
-### Hi there 👋
+<div align=center>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpyy0715)](https://hits.seeyoufarm.com)
+	
+</div>
+### Junior Data Scientist
+🤔 I’m looking for a company
 
+### 🌱Interset
+- Machine Learning
+- Recommendation System
+- Natural Language Processing
+  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://pyy0715.github.io/)](https://pyy0715.github.io/)
+	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/young-yeon-park-67086a14b/)](https://www.linkedin.com/in/young-yeon-park-67086a14b/)
+	
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pyy0715@gmail.com)](mailto:pyy0715@gmail.com)
+  
 <!--
 **pyy0715/pyy0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
