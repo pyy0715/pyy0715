@@ -15,11 +15,8 @@
 <div align=center>
 	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://pyy0715.github.io/)](https://pyy0715.github.io/)	
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/young-yeon-park-67086a14b/)](https://www.linkedin.com/in/young-yeon-park-67086a14b/)	
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pyy0715@gmail.com)](mailto:pyy0715@gmail.com)
-
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/young-yeon-park-67086a14b/)](https://www.linkedin.com/in/young-yeon-park-67086a14b/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pyy0715@gmail.com)](mailto:pyy0715@gmail.com)
+ 
 </div>
 
 <!--
