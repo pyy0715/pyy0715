@@ -12,7 +12,7 @@
 - Recommendation System
 - Natural Language Processing
 
-<div align=center style="padding:30px;">
+<div align=center; style="padding:30px;">
 	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://pyy0715.github.io/)](https://pyy0715.github.io/)	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/young-yeon-park-67086a14b/)](https://www.linkedin.com/in/young-yeon-park-67086a14b/)	
