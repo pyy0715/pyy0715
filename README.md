@@ -7,7 +7,7 @@
 ### Junior Data Scientist
 - 🤔 I’m looking for a company
 
-### 🌱Interset
+### Interset
 - Machine Learning
 - Recommendation System
 - Natural Language Processing
