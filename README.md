@@ -3,8 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpyy0715)](https://hits.seeyoufarm.com)
 	
 </div>
+
 ### Junior Data Scientist
-🤔 I’m looking for a company
+- 🤔 I’m looking for a company
 
 ### 🌱Interset
 - Machine Learning
