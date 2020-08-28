@@ -6,6 +6,8 @@
 
 ### Junior Data Scientist
 - 🤔 I’m looking for a company
+- 2020.08 ~ Present, FastCampus, DataAnalysis Course Tutor
+- 2019.09 ~ 2019.12, Medicisoft, DataScientist Intern
 
 ### Interset
 - Machine Learning
