@@ -6,8 +6,8 @@
 
 ### Junior Data Scientist
 - 🤔 I’m looking for a company
-- 2020.08 ~ Present, FastCampus, DataAnalysis Course Tutor
-- 2019.09 ~ 2019.12, Medicisoft, DataScientist Intern
+- 2020.08 ~ Present, FastCampus, Data Analysis Course Tutor
+- 2019.09 ~ 2019.12, Medicisoft, Data Scientist Intern
 
 ### Interset
 - Machine Learning
@@ -19,6 +19,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://pyy0715.github.io/)](https://pyy0715.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/young-yeon-park-67086a14b/)](https://www.linkedin.com/in/young-yeon-park-67086a14b/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pyy0715@gmail.com)](mailto:pyy0715@gmail.com)
+[![github stats](https://github-readme-stats.vercel.app/api?username=pyy0715&show_icons=true&hide_border=False)](https://github.com/pyy0715)
  
 </div>
 
