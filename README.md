@@ -1,17 +1,20 @@
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpyy0715)](https://hits.seeyoufarm.com)
+
+![pyy0715's github stats](https://github-readme-stats.vercel.app/api?username=pyy0715&show_icons=true)
 	
 </div>
 
 ### Junior Data Scientist
-- 2020.08 ~ Present, `FastCampus`, Data Analysis Course Tutor(Hyundai Mobis)
+- 2020.08 ~ Present, `FastCampus`, Data Analysis Course Tutor(at Hyundai Mobis)
 - 2019.09 ~ 2019.12, `Medicisoft`, Data Scientist Intern
 
 ### Interset
 - Machine Learning
 - Recommendation System
 - Natural Language Processing
+
 
 <div align=center>
 	
