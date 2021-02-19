@@ -6,14 +6,13 @@
 	
 </div>
 
-### Junior Data Scientist
-- 2020.08 ~ Present, `FastCampus`, Data Analysis Course Tutor(at Hyundai Mobis)
-- 2019.09 ~ 2019.12, `Medicisoft`, Data Scientist Intern
+🤔 Hello!
 
 ### Interset
 - Machine Learning
 - Recommendation System
 - Natural Language Processing
+- Graph
 
 
 <div align=center>
